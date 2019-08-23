@@ -5,8 +5,10 @@ layout: default
 
 # Welcome!
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+My name is Tobi Schweiger, and I am a 21 year old CS student at [https://www.siue.edu](SIUE).
 
 # About me
 
 # Projects
+
+# Experience

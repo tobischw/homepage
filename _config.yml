@@ -3,3 +3,5 @@ description: I'm a CS student with a passion for AI, web dev, and everything in 
 author: Tobi Schweiger
 theme: jekyll-theme-minimal
 title: tobischw.me
+show_downloads: false
+logo: static/img/me.png

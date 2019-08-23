@@ -14,8 +14,8 @@ Since I was young, I always wanted to create something. So I learned how to prog
 Since then, I have dabbled in almost any framework or language you can think of - I have made games using Unity, written server administration software in C# and .NET using [NancyFX](http://nancyfx.org/), game and app templates using Swift, [a static site generator using Dart](https://github.com/tobischw/boris), taught a ML to figure out when my dog sits, and much, much more.
 
 # Projects
-* [Pronghorn](https://github.com/objectcomputing/Pronghorn) - Pragmatic approach to a staged event driven single machine embedded micro-framework. Developed testing and documentation.
-* [Notery](https://devpost.com/software/notery) - Collaborative note taking for students. Winner of 2019 eHacks "Best UI/UX"
+* [Pronghorn](https://github.com/objectcomputing/Pronghorn) - Pragmatic approach to a staged event driven single machine embedded micro-framework. Responsible for testing and documentation.
+* [Notery](https://devpost.com/software/notery) - Collaborative note taking for students. Winner of 2019 eHacks "Best UI/UX". Responsible for frontend.
 * [Boris](https://github.com/tobischw/boris) - Unfinished. Dead simple static generator, written in Dart.
 * [dart-lox](https://github.com/tobischw/dart-lox) - Unfinished. Toy-language Lox interpreter, written in Dart.
 

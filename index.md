@@ -21,3 +21,6 @@ Since then, I have dabbled in almost any framework or language you can think of 
 
 # Experience
 During my sophomore year at SIUE, I landed an internship at [Object Computing Inc.](https://objectcomputing.com/), one of the most reputable software contractors in the area. I was responsible for writing iOS apps for a new MQTT framework (called [GreenLightning](https://oci-pronghorn.gitbook.io/greenlightning/), check it out!), developing a React-based dashboard for monitoring said MQTT framework, and testing as well as cobbling together documentation for a unique and _blazing fast_ actor-framework called [Pronghorn](https://opensource.com/article/18/6/writing-applications-java-pronghorn), written in Java.
+
+# Contact me
+You can always contact me on [Github](https://github.com/tobischw), or send me a message on [LinkedIn](https://www.linkedin.com/in/tobias-schweiger-7bb377132/).
